@@ -1,0 +1,765 @@
+,text,emotion
+0,este trabalho e agradável,alegria
+1,gosto de ficar no seu aconchego,alegria
+2,fiz a adesão ao curso hoje,alegria
+3,eu sou admirada por muitos,alegria
+4,adoro como você e,alegria
+5,adoro seu cabelo macio,alegria
+6,adoro a cor dos seus olhos,alegria
+7,somo tão amáveis um com o outro,alegria
+8,sinto uma grande afeição por ele,alegria
+9,quero agradar meus filhos,alegria
+10,me sinto completamente amado,alegria
+11,eu amo você,alegria
+12,que grande alivio,alegria
+13,a dor esta amenizando finalmente,alegria
+14,acho que me apaixonei,alegria
+15,amar e maravilhoso,alegria
+16,estou me sentindo muito animada,alegria
+17,me sinto muito bem hoje,alegria
+18,como o luar e belo,alegria
+19,o dia esta muito bonito,alegria
+20,nossa como sou afortunado,alegria
+21,as maravilhas do mundo,alegria
+22,recebi muito carinho hoje do meus colegas,alegria
+23,estou me sentindo reconfortada hoje,alegria
+24,e muito bom estar com os amigos,alegria
+25,estou muito contente com o resultado dos testes,alegria
+26,essa pintura esta bem brilhante,alegria
+27,temos água em abundancia,alegria
+28,que roupa delicada,alegria
+29,você e um grande comediante,alegria
+30,que bondade a sua em vir aqui,alegria
+31,o amor e lindo,alegria
+32,nossa amizade vai durar para sempre,alegria
+33,estou eufórica com a noticia,alegria
+34,ele e realmente fiel a mim,alegria
+35,vou dar uma grande festa para comemorar meu aniversário,alegria
+36,graças a deus que eu enxerguei o certo,alegria
+37,essa e a melhor escolhas de todas,alegria
+38,o mais incrível e você minha bela,alegria
+39,e tão engraçado tentar explicar,alegria
+40,e emocionante estar neste lugar,alegria
+41,estou cativada pelo seu olhar,alegria
+42,estou loucamente apaixonada,alegria
+43,eu nunca tive duvidas,alegria
+44,estou rodeada pelo seu abraço,alegria
+45,eu vejo estrelas pelo caminho,alegria
+46,eu sinto o sol sempre que você esta por perto,alegria
+47,eu estou sorrindo de orelha a orelha,alegria
+48,isso vale a pena,alegria
+49,finalmente você colocou meu amor em primeiro lugar,alegria
+50,nós dançamos noite adentro,alegria
+51,seu amor e brilhante,alegria
+52,toquei muitos corações durante o meu caminho,alegria
+53,eu serei sua amiga e companheira,alegria
+54,você me traz de volta a vida,alegria
+55,você e como um sonho doce,alegria
+56,adoro este doce de frutas,alegria
+57,meu suco favorito,alegria
+58,estou agradecida pela ajuda,alegria
+59,e um enorme prazer ter você em nossa equipe,alegria
+60,trabalhar em equipe e o melhor,alegria
+61,me sinto flutuando no ar,alegria
+62,a brisa esta agradável hoje,alegria
+63,ótimo e compatível,alegria
+64,somos compatíveis um com o outro,alegria
+65,o órgão e compatível com o paciente,alegria
+66,estou contente fui aceita na faculdade,alegria
+67,fui aprovada no meu exame,alegria
+68,fui beneficiada pela minha empresa,alegria
+69,eu sou muito cativante,alegria
+70,estou contente com o apoio,alegria
+71,como este lugar e confortável,alegria
+72,e bom estar quente neste frio,alegria
+73,um elogio nunca e demais,alegria
+74,vou te chamar para comemorar,alegria
+75,e desejável a sua presença em nossa apresentação,alegria
+76,sou muito grata a você,alegria
+77,me dedico muito naquilo que faço,alegria
+78,estou completamente apaixonada ,alegria
+79,vamos agitar essa noite ,alegria
+80,você significa muito para mim,alegria
+81,vamos agir sem preconceitos e julgamentos,alegria
+82,"finalmente completei a minha coleção, maravilhoso",alegria
+83,eu sou sua rainha ,alegria
+84,satisfatoriamente eu anuncio o vencedor dos jogos,alegria
+85,você me atrai facilmente ,alegria
+86,aquele rapaz e extremamente atraente,alegria
+87,sinto-me viva ,alegria
+88,sinto-me em paz ,alegria
+89,estamos tendo muito lucro,alegria
+90,muito bem esta tudo em ordem agora ,alegria
+91,podemos arrumar um emprego juntos ,alegria
+92,"a arrumação esta terminada, que alívio",alegria
+93,o câncer e benigno ,alegria
+94,o amor e abundante,alegria
+95,vamos ser caridosos este natal,alegria
+96,com todo esse charme você irá atrair a todos,alegria
+97,nossa como você e charmoso querido ,alegria
+98,sou querida pelos meu amigos,alegria
+99,seja cuidadoso com os meus sentimentos,alegria
+100,estou comovido com tamanha caridade,alegria
+101,um chá quente e reconfortante,alegria
+102,que alegria ter vocês aqui ,alegria
+103,vamos aplaudir o vencedor ,alegria
+104,palmas para a aniversariante,alegria
+105,desejo a você tudo de bom,alegria
+106,hora de apreciar um bom vinho,alegria
+107,aprecio sua presença em minha escola,alegria
+108,anseio por seus próximos trabalhos,alegria
+109,maravilhoso jogo amistoso,alegria
+110,e ótimo que os ânimos tenham se apaziguado,alegria
+111,concretizei finalmente meu sonho,alegria
+112,você e abominável,desgosto
+113,abomino a maneira como você age,desgosto
+114,estou adoentado,desgosto
+115,meu pai esta adoentado,desgosto
+116,estamos todos doentes,desgosto
+117,essa situação e muito amarga,desgosto
+118,disse adeus amargamente,desgosto
+119,tenho antipatia por aquela pessoa,desgosto
+120,como pode ser tão antipática!,desgosto
+121,que horrível seu asqueroso,desgosto
+122,tenho aversão agente como você,desgosto
+123,isso tudo e só chateação,desgosto
+124,estou muito chateada com suas mentiras,desgosto
+125,tão desagradável,desgosto
+126,isso me desagrada completamente,desgosto
+127,te desagrada isso,desgosto
+128,estou com enjôos terríveis,desgosto
+129,todos estão enfermos,desgosto
+130,foi uma enfermidade terrível,desgosto
+131,isso e muito grave,desgosto
+132,não seja tão grosseiro,desgosto
+133,você fez uma manobra ilegal,desgosto
+134,"sua indecente, não tem vergonha?",desgosto
+135,você e malvado com as crianças,desgosto
+136,que comentário maldoso,desgosto
+137,sem escrúpulos você manipula a tudo,desgosto
+138,sinto repulsa por você,desgosto
+139,e repulsivo a maneira como olha para as pessoas,desgosto
+140,estou indisposta,desgosto
+141,a indisposição me atacou hoje,desgosto
+142,acho que vou vomitar,desgosto
+143,tem muito vomito lá,desgosto
+144,que incomodo essa dor,desgosto
+145,não me incomode nunca mais,desgosto
+146,suas bobagens estão nos incomodando,desgosto
+147,que nojo olha toda essa sujeira,desgosto
+148,como isso está sujo,desgosto
+149,tenho náuseas só de lembrar,desgosto
+150,me sinto nauseada com o cheiro desta comida,desgosto
+151,você esta obstruindo a passagem de ar,desgosto
+152,você esta terrivelmente doente,desgosto
+153,olhe que feia esta roupa,desgosto
+154,que atitude deplorável,desgosto
+155,nossa como você e feio,desgosto
+156,muito mau tudo isso,desgosto
+157,estou desgostoso com você,desgosto
+158,você cortou o meu assunto,desgosto
+159,para que tanta chateação?,desgosto
+160,esse perfume e enjoativo,desgosto
+161,ser perigoso não nada bom,desgosto
+162,você e perigoso demais para minha filhas,desgosto
+163,que fetido este esgoto,desgosto
+164,que fedido você esta,desgosto
+165,que cachorro malcheiroso,desgosto
+166,hora que ultraje,desgosto
+167,e ultrajante da sua parte,desgosto
+168,situação desagradável essa,desgosto
+169,você só me da desgosto,desgosto
+170,tenho aversão a pessoas assim,desgosto
+171,antipatia e um mal da sociedade,desgosto
+172,que criatura abominável,desgosto
+173,e depressiva a maneira como você vê o mundo,desgosto
+174,me desagrada sua presença na festa,desgosto
+175,sinto asco dessa coisa,desgosto
+176,que hediondo!,desgosto
+177,vou golfar o cafe fora,desgosto
+178,hora que garota detestável!,desgosto
+179,estou nauseada,desgosto
+180,isso que você disse foi muito grave,desgosto
+181,não seja obsceno na frente das crianças,desgosto
+182,não seja rude com as visitas,desgosto
+183,esse assunto me da repulsa,desgosto
+184,que criança terrivelmente travessa,desgosto
+185,que criança mal educada,desgosto
+186,estou indisposta te dar o divorcio,desgosto
+187,"tão patetico, não tem nada mais rude para dizer?",desgosto
+188,"por motivo torpe, com emprego de meio cruel e com impossibilidade de defesa para a vítima",desgosto
+189,a inveja e tão vil e vergonhosa que ninguem se atreve a confessá-la,desgosto
+190,o miserável receio de ser sentimental e o mais vil de todos os receios modernos,desgosto
+191,travesso gato quando fica com saudades do dono mija no sapato,desgosto
+192,isso e um ato detestável e covarde,desgosto
+193,revelam apenas o que e destrutivo e detestável para o povo,desgosto
+194,"não sei como e a vida de um patife, mais a de um homem honesto e abominável",desgosto
+195,há coisas que temos que suportar para não acharmos a vida insuportável,desgosto
+196,as injurias do tempo e as injustiças do homem,desgosto
+197,odioso e desumano,desgosto
+198,"você não publicará conteúdo odiento, pornográfico ou ameaçador",desgosto
+199,rancoroso e reprimido,desgosto
+200,"não há animal mais degradante, estúpido, covarde, lamentável, egoísta, rancoroso e invejoso do que o homem",desgosto
+201,o virulento debate ente políticos,desgosto
+202,"eu imploro, não me matem!",medo
+203,tem certeza que não e perigoso?,medo
+204,não tenho certeza se e seguro,medo
+205,tenho que correr pra não me pegarem,medo
+206,socorro! ele queria roubar os meus doces!,medo
+207,esse cara está me perseguindo,medo
+208,"não entro lá, e um lugar muito perigoso",medo
+209,este lugar continua assustador,medo
+210,na selva tem muitos animais perigosos,medo
+211,avancem com cautela,medo
+212,"este lugar está silencioso de mais, cuidado!",medo
+213,"por favor, deixe-me viver!",medo
+214,vou ficar sem mesada se tirar nota baixa,medo
+215,parece que tem olhos nos vigiando,medo
+216,eu temo que a sentença do juiz possa ser negativa,medo
+217,mas essa missão e arriscada,medo
+218,salvem-se quem puder!,medo
+219,meu plano pode ser descoberto,medo
+220,"não tive culpa, juro não fui eu",medo
+221,tenho que tomar cuidado com o lobisomem,medo
+222,"se eu não achar, ele vai descobrir a verdade",medo
+223,"meu deus, ele desapareceu!",medo
+224,tomara que eles não me vejam daqui!,medo
+225,"mantenha isso em segredo, se descobrirem estaremos ferrados",medo
+226,"por favor, me soltem, eu sou inocente",medo
+227,estou ouvindo passos atrás de mim,medo
+228,eu vou pedir socorro!,medo
+229,cuidado com as curvas na estrada,medo
+230,"não sei não, parece perigoso",medo
+231,estou tremendo de medo!,medo
+232,"socorro, eu vou cair!",medo
+233,"eu não vou ate a floresta negra, e muito perigoso",medo
+234,ouço passos na minha direção,medo
+235,acho que está arriscado de mais,medo
+236,"vamos voltar, e muito perigoso",medo
+237,"fuja, se não acabaremos mortos",medo
+238,receio por não me livrar desta situação,medo
+239,socorro! ele está armado!,medo
+240,"ei cuidado, você vai bater no poste!",medo
+241,"socorro, nós estamos afundando",medo
+242,"e serio, cuidado com essa arma!",medo
+243,os tubarões estão atacando!,medo
+244,sinto arrepios quando fico sozinho no escuro,medo
+245,"calma, eu não estou com o dinheiro",medo
+246,eu acho que estou sendo enganado,medo
+247,"ligeiro, temos que fugir depressa",medo
+248,tem um crocodilo selvagem vindo para cá,medo
+249,se ficarmos quietos eles não vão nos achar,medo
+250,fuja! o tigre parece faminto,medo
+251,"estou sem saída, preciso de um milagre",medo
+252,tire isso de mim! socorro!,medo
+253,"não sei nadar, vou me afogar!",medo
+254,vou apanhar se meus pais verem meu boletim,medo
+255,não consigo sair daqui!,medo
+256,"se sair tão tarde, poderei ser assaltada",medo
+257,não me deixe por favor!,medo
+258,"espere, não pode me largar aqui sozinho",medo
+259,temo pela sua segurança,medo
+260,"eu te entrego o dinheiro, por favor não me mate!",medo
+261,ele vai levar todo o meu dinheiro,medo
+262,não dirija tão rápido assim,medo
+263,"me descobriram, irão me prender!",medo
+264,só espero que não me façam nenhum mal,medo
+265,"vou me afogar, me ajudem a sair da água",medo
+266,não estaremos a salvo aqui,medo
+267,não quero nem pensar no que pode acontecer,medo
+268,nessa cidade e uma desgraça atrás da outra,medo
+269,"alguem esta me ligando, estou assustado",medo
+270,"isso não e remedio, não me matem",medo
+271,"eu não confio nele, tenho que ter cautela",medo
+272,muita cautela,medo
+273,"vou ser descoberto, meu deus",medo
+274,receio que terei de ir,medo
+275,a noite e muito perigosa,medo
+276,estou estremecendo com essa casa,medo
+277,olha aquela criatura se movendo monstruosamente,medo
+278,não agüento este suspense,medo
+279,afugente os cães,medo
+280,estou chocado e amedrontado com este assassinato brutal,medo
+281,e preciso afugenta com ímpeto este medo do inferno,medo
+282,seu políticos usam suas forças para afugentar e amedrontar o povo,medo
+283,o objetivo disso e apenas me amedrontar mais,medo
+284,isso me apavora,medo
+285,ele a feriu profundamente,raiva
+286,vou despejar minha cólera em você,raiva
+287,me sinto atormentado,raiva
+288,não me contrarie,raiva
+289,vou destruir tudo  que foi construído,raiva
+290,"não consigo terminar este trabalho, e muito frustrante",raiva
+291,me frustra a sua presença aqui,raiva
+292,esta comida me parece muito ruim,raiva
+293,você me destrói,raiva
+294,estamos separados,raiva
+295,estou odiando este vestido,raiva
+296,não pude comprar meu celular hoje,raiva
+297,ela e uma garota ruim,raiva
+298,estivemos em um show horroroso,raiva
+299,o ingresso estava muito caro,raiva
+300,se eu estragar tudo vai por água a baixo,raiva
+301,não possuo dinheiro algum,raiva
+302,sou muito pobre,raiva
+303,vai prejudicar a todos esta nova medida,raiva
+304,ficou ridículo,raiva
+305,este sapato esta muito apertado,raiva
+306,a musica e uma ofensa aos meus ouvidos,raiva
+307,não consigo terminar uma tarefa muito difícil,raiva
+308,reprovei em minha graduação,raiva
+309,estou muito chateado com tudo,raiva
+310,eu odeio em você,raiva
+311,e um desprazer conhecê-lo,raiva
+312,estou desperdiçando minhas ferias,raiva
+313,e muito ruim este jogo,raiva
+314,vamos ter muito rancor pela frente,raiva
+315,não achei que seria tão terrível,raiva
+316,vou vetar o orçamento ao cliente,raiva
+317,meus pais não consentiram nosso casamento,raiva
+318,eu odiei este perfume,raiva
+319,seu descaso e frustrante,raiva
+320,me sinto completamente amarga,raiva
+321,desprezo muito o seu trabalho,raiva
+322,estamos descontentes por nossa família,raiva
+323,vou infernizar a sua empresa,raiva
+324,estou furioso com estes valores,raiva
+325,obrigaram o rapaz a sair,raiva
+326,como ele pode deixar de lado?,raiva
+327,são apenas injurias sobre mim,raiva
+328,estou enfurecido com a situação dessa empresa,raiva
+329,estou com o diabo no corpo,raiva
+330,isso foi diabólico,raiva
+331,tenho aversão à gente chata,raiva
+332,não vou perdoar sua traição,raiva
+333,esse dinheiro sujo e corrupto,raiva
+334,eles me crucificam o tempo todo,raiva
+335,eu vou enlouquecer com todo este barulho,raiva
+336,não agüento todo esse assedio,raiva
+337,cólera do dragão,raiva
+338,isso e ridículo!,raiva
+339,"da próxima vez, vou inventar tudo sozinho",raiva
+340,seus tolos! deixaram ele escapar!,raiva
+341,jamais te perdoarei,raiva
+342,o que e isso? outra multa,raiva
+343,você passou dos limites!,raiva
+344,sente-se e cale a boca,raiva
+345,ingratosvermesvocês me pagam!,raiva
+346,"saiam da dai, se não arranco vocês dai!",raiva
+347,você já me causou problemas suficientes,raiva
+348,isso foi a gota dagua,raiva
+349,o que você tem com isso?,raiva
+350,não vejo a hora de me livrar de você,raiva
+351,já entendi a jogada seus safados!,raiva
+352,você não merece piedade,raiva
+353,saia de perto de mim,raiva
+354,"suma daqui, ou arranco seu couro!",raiva
+355,estou revoltado com essa situação,raiva
+356,seu idiota!,raiva
+357,"não, eu não vou te emprestar dinheiro!",raiva
+358,você não passa de um cafajeste! vai embora,raiva
+359,pare de frescura e vá trabalhar,raiva
+360,eles merecem uma lição,raiva
+361,ainda estou muito bravo com você,raiva
+362,eu preciso surrar aquela chantagista,raiva
+363,olha o que você fez! derramou!,raiva
+364,você está pedindo pra apanhar!,raiva
+365,me deixa em paz!,raiva
+366,"morra maldito, morra!",raiva
+367,você e mais irritante de perto,raiva
+368,e bom fechar o bico,raiva
+369,magicamente você me surpreendeu,surpresa
+370,e imenso esse globo,surpresa
+371,isso e tremendamente interessante,surpresa
+372,"meu bilhete for sorteado, inacreditável!",surpresa
+373,um assalto a mão armada!,surpresa
+374,"incrível, cabe em qualquer lugar!",surpresa
+375,você por aqui?,surpresa
+376,não dá pra acreditar no que ela me contou,surpresa
+377,os convidados já estão chegando!,surpresa
+378,puxa vida! nunca nos livramos de alguem tão depressa,surpresa
+379,"micha carteira sumiu, eu estava com ela na mão",surpresa
+380,oh! um disco voador,surpresa
+381,"amigos, que bela surpresa!",surpresa
+382,nunca pensei que veria isso e perto,surpresa
+383,nem acredito que comi tanto,surpresa
+384,não acredito que veio me ver,surpresa
+385,não acredito que e  tão descarado,surpresa
+386,me surpreende sua falta de tato,surpresa
+387,o predio onde eles moravam desabou!,surpresa
+388,inacreditável um bolo tão grande,surpresa
+389,e serio mesmo? não dá pra acreditar,surpresa
+390,como assim não vai ao nosso encontro?,surpresa
+391,como assim não tem ninguem em casa?,surpresa
+392,"ue, mas para onde ele foi?!",surpresa
+393,por essa eu não esperava,surpresa
+394,"nossa, olha só que mergulho",surpresa
+395,minha esposa está grávida!,surpresa
+396,meu dinheiro sumiu!,surpresa
+397,e verdade que os dois terminaram?!?,surpresa
+398,"caramba, nem vi você chegar",surpresa
+399,"nossa, como pode alguem cozinhar tão mal?",surpresa
+400,nossa que incrível,surpresa
+401,a fórmula sumiu!,surpresa
+402,eu nem acredito que já estou terminando o curso,surpresa
+403,não acredito que esta aqui comigo novamente,surpresa
+404,está escondendo algo de nós!,surpresa
+405,"como assim, ainda não terminou a tarefa",surpresa
+406,pensei que já estivesse pronta!,surpresa
+407,opa! quem apagou a luz?,surpresa
+408,caramba! aonde vai tão rápido?,surpresa
+409,estamos seguindo o caminho errado!,surpresa
+410,quatro reais o litro da gasolina!,surpresa
+411,me assustei ao vê-lo desse jeito!,surpresa
+412,"minha mãe está grávida, acredita nisso?",surpresa
+413,parece mentira você ter crescido tanto,surpresa
+414,me surpreende sua imaginação,surpresa
+415,suas roupas são realmente lindas,surpresa
+416,com consegue ser tão bela?,surpresa
+417,essa e realmente uma casa deslumbrante,surpresa
+418,superou minhas expectativas,surpresa
+419,e admirável a maneira como se comporta,surpresa
+420,isso e realmente chocante,surpresa
+421,algumas noticias me surpreenderam no noticiário,surpresa
+422,surpreendente sua festa,surpresa
+423,estou tremendo de alegria,surpresa
+424,chocou grande parte do mundo,surpresa
+425,eu ficaria muito espantado com a sua vinda,surpresa
+426,ele e admirável,surpresa
+427,sua beleza me surpreendeu,surpresa
+428,seus olhos são surpreendentemente verdes,surpresa
+429,os políticos se surpreendem quando alguem acredita neles,surpresa
+430,estou perplexa com essas denuncias,surpresa
+431,fiquei perplexo com suas palavras,surpresa
+432,estou abismado com sua prosa,surpresa
+433,eu ficaria realmente abismado se me dissessem isso,surpresa
+434,o grupo foi surpreendido enquanto lavava o carro,surpresa
+435,estou boquiaberto com as imagens,surpresa
+436,estou boquiaberto com essas suas palavras,surpresa
+437,esse quadro e maravilhoso,surpresa
+438,este carro me deixou maravilhado,surpresa
+439,estou maravilhada,surpresa
+440,essa expectativa esta me matando,surpresa
+441,vou caminhar sempre na expectativa de encontrá-lo,surpresa
+442,você emudece minhas palavras,surpresa
+443,minhas palavras vão emudecer se não parar de me surpreender,surpresa
+444,a mulher e um efeito deslumbrante da natureza,surpresa
+445,estou deslumbrada com essas jóias,surpresa
+446,isso e romântico e deslumbrante,surpresa
+447,isso pode ser surpreendentemente deslumbrante,surpresa
+448,trabalho deslumbrante,surpresa
+449,essas pessoas são esplêndida,surpresa
+450,e esplendido como o ceu se encontra no momento,surpresa
+451,e um carro fantástico,surpresa
+452,um edifício realmente fantástico,surpresa
+453,por favor não me abandone,tristeza
+454,não quero ficar sozinha,tristeza
+455,não me deixe sozinha,tristeza
+456,estou abatida,tristeza
+457,ele esta todo abatido,tristeza
+458,tão triste suas palavras,tristeza
+459,seu amor não e mais meu,tristeza
+460,estou aborrecida,tristeza
+461,isso vai me aborrecer,tristeza
+462,estou com muita aflição,tristeza
+463,me aflige o modo como fala,tristeza
+464,estou em agonia com meu intimo,tristeza
+465,não quero fazer nada,tristeza
+466,me sinto ansiosa e tensa,tristeza
+467,não consigo parar de chorar,tristeza
+468,não consigo segurar as lagrimas,tristeza
+469,e muita dor perder um ente querido,tristeza
+470,estou realmente arrependida,tristeza
+471,"acho que o carma volta, pois agora sou eu quem sofro",tristeza
+472,você não cumpriu suas promessas,tristeza
+473,me sinto amargurada,tristeza
+474,coitado esta tão triste,tristeza
+475,já e tarde de mais,tristeza
+476,nosso amor acabou,tristeza
+477,essa noite machuca só para mim,tristeza
+478,eu não estou mais no seu coração,tristeza
+479,você mudou comigo,tristeza
+480,quando eu penso em você realmente dói,tristeza
+481,como se fosse nada você vê minhas lagrimas,tristeza
+482,você disse cruelmente que não se arrependeu,tristeza
+483,eu nunca mais vou te ver,tristeza
+484,ela esta com depressão,tristeza
+485,a depressão aflige as pessoas,tristeza
+486,estar depressivo e muito ruim,tristeza
+487,estou derrotada e deprimida depois deste dia,tristeza
+488,e comovente te ver dessa maneira,tristeza
+489,e comovente ver o que os filhos do brasil passam,tristeza
+490,como me sinto culpada,tristeza
+491,a ansiedade tomou conta de mim,tristeza
+492,as pessoas não gostam do meu jeito,tristeza
+493,adeus passamos bons momentos juntos,tristeza
+494,sinto sua falta,tristeza
+495,ele não gostou da minha comida,tristeza
+496,estou sem dinheiro para a comida,tristeza
+497,queria que fosse o ultimo dia da minha vida,tristeza
+498,você está com vergonha de mim,tristeza
+499,ela não aceitou a minha proposta,tristeza
+500,era o meu ultimo centavo,tristeza
+501,reprovei de ano na faculdade,tristeza
+502,afinal você só sabe me desfazer,tristeza
+503,eu falhei em tudo nessa vida,tristeza
+504,eu fui muito humilhado,tristeza
+505,e uma história muito triste,tristeza
+506,ninguem acredita em mim,tristeza
+507,eu não sirvo para nada mesmo,tristeza
+508,"droga, não faço nada direito",tristeza
+509,sofrimento em dobro na minha vida,tristeza
+510,fui demitida essa semana,tristeza
+511,as crianças sofrem ainda mais que os adultos,tristeza
+512,"pra mim um dia e ruim, o outro e pior",tristeza
+513,de repente perdi o apetite,tristeza
+514,oh que dia infeliz,tristeza
+515,estamos afundados em contas,tristeza
+516,nem um milagre pode nos salvar,tristeza
+517,só me resta a esperança,tristeza
+518,pior que isso não pode ficar,tristeza
+519,meu salário e baixo,tristeza
+520,não passei no vestibular,tristeza
+521,ninguem se importa comigo,tristeza
+522,ninguem lembrou do meu aniversário,tristeza
+523,tenho tanto azar,tristeza
+524,o gosto da vingança e amargo,tristeza
+525,sou uma mulher amargurada depois de que você me deixou,tristeza
+526,estou desanimada com a vida,tristeza
+527,e um desanimo só coitadinha,tristeza
+528,a derrota e depressiva,tristeza
+529,discriminar e desumano,tristeza
+530,que desanimo,tristeza
+531,e uma desonra para o pais,tristeza
+532,a preocupação deveria nos levar a ação não a depressão,tristeza
+533,passamos ao desalento e a loucura,tristeza
+534,aquele que nunca viu a tristeza nunca reconhecerá a alegria,tristeza
+535,cuidado com a tristeza ela e um vicio,tristeza
+0,não precisei pagar o ingresso,alegria
+1,se eu ajeitar tudo fica bem,alegria
+2,minha fortuna ultrapassa a sua,alegria
+3,sou muito afortunado,alegria
+4,e benefico para todos esta nova medida,alegria
+5,ficou lindo,alegria
+6,achei esse sapato muito simpático,alegria
+7,estou ansiosa pela sua chegada,alegria
+8,congratulações pelo seu aniversário,alegria
+9,delicadamente ele a colocou para dormir,alegria
+10,a musica e linda,alegria
+11,sem musica eu não vivo,alegria
+12,conclui uma tarefa muito difícil,alegria
+13,conclui minha graduação,alegria
+14,estou muito contente com tudo,alegria
+15,eu confio em você,alegria
+16,e um prazer conhecê-lo,alegria
+17,o coleguismo de vocês e animador,alegria
+18,estou aproveitando as ferias,alegria
+19,vamos aproveitar as ferias,alegria
+20,e muito divertido este jogo,alegria
+21,vamos ter muita diversão,alegria
+22,não achei que me divertiria tanto assim,alegria
+23,vou consentir o orçamento ao cliente,alegria
+24,com o consentimento dos meus pais podemos nos casar,alegria
+25,eu adorei este perfume,alegria
+26,sua bondade e cativante,alegria
+27,estou despreocupada,alegria
+28,não me preocupo com o que aconteceu,alegria
+29,me sinto completamente segura,alegria
+30,estimo muito o seu trabalho,alegria
+31,somos estimados por nossa família,alegria
+32,concretizamos nossa ideia,alegria
+33,nosso ideal foi alcançado,alegria
+34,estamos muito felizes juntos,alegria
+35,estou tão animada com os preparativos para o casamento,alegria
+36,você será muito amado meu filho,alegria
+37,os apaixonados são maravilhosos,alegria
+38,agradeço imensamente o seu apoio nestes dias,alegria
+39,esta comida me parece muito atraente,alegria
+40,você me completa,alegria
+41,poderemos completar o projeto hoje!,alegria
+42,estamos namorando,alegria
+43,estou namorando este vestido a um tempo,alegria
+44,pude comprar meu celular hoje,alegria
+45,e um deleite poder compartilhar minhas vitórias,alegria
+46,ela e um boa garota,alegria
+47,estivemos em um ótimo show,alegria
+48,o mundo e feio como o pecado,desgosto
+49,a coisa mais difícil de esconder e aquilo que não existe,desgosto
+50,você errou feio aquele gol,desgosto
+51,nunca vou me casar sou muito feia,desgosto
+52,os golpes da adversidade são terrivelmente amargos,desgosto
+53,os homem ficam terrivelmente chatos,desgosto
+54,abominavelmente convencido,desgosto
+55,terrivelmente irritado,desgosto
+56,as instituições publicas estão terrivelmente decadentes,desgosto
+57,a população viveu em isolamento por muito tempo,desgosto
+58,estou terrivelmente preocupada,desgosto
+59,o nacionalismo e uma doença infantil,desgosto
+60,se me es antipático a minha negação esta pronta,desgosto
+61,muitos documentários sobre esse casal antipático,desgosto
+62,sua beleza não desfaça sua antipatia,desgosto
+63,esta e uma experiência desagradável,desgosto
+64,desagradável estrago nos banheiros,desgosto
+65,o mais irritante no amor e que se trata de um crime que precisa de um cúmplice,desgosto
+66,a situação nos causa grande incomodo,desgosto
+67,estou preocupado com o incomodo na garganta,desgosto
+68,simplesmente não quero amolação da policia,desgosto
+69,você e uma criaturinha muito impertinente,desgosto
+70,o peso e a dor da vida,desgosto
+71,me arrependo amargamente de minhas ações,desgosto
+72,o destino e cruel e os homens não são dignos de compaixão,desgosto
+73,o ódio conduz ao isolamento cruel e ao desespero,desgosto
+74,encerrou com o massacre mais repudiável e asqueroso que se conhece,desgosto
+75,de mal gosto e asqueroso,desgosto
+76,tudo e inserto neste mundo hediondo,desgosto
+77,o crime de corrupção e um crime hediondo,desgosto
+78,o rio esta fetido e de cor escura,desgosto
+79,muito lixo no rio o deixa malcheiroso,desgosto
+80,existe uma laranja podre no grupo e já desconfiamos quem e,desgosto
+81,foi de repente estou machucado e me sentindo enjoado,desgosto
+82,eu fiquei enojado,desgosto
+83,daqui alguns meses vou embora deste pais que já estou nauseado,desgosto
+84,que abominável esse montro!,medo
+85,vamos alarmar a todos sobre a situação,medo
+86,estou amedrontada,medo
+87,estou com muito medo da noite,medo
+88,ele esta me ameaçando a dias,medo
+89,quanta angustia,medo
+90,estou angustiada,medo
+91,angustiadamente vou sair e casa,medo
+92,isso me deixa apavorada,medo
+93,você esta me apavorando,medo
+94,estou desconfiada de você,medo
+95,não confio em você,medo
+96,ate o cachorro está apavorado,medo
+97,estou assustado com as ações do meu colega,medo
+98,"agora se sente humilhado, apavorado",medo
+99,assustou a população e provocou mortes,medo
+100,estou com dificuldades para respirar e muito assustado,medo
+101,os policiais se assustaram quando o carro capotou,medo
+102,o trabalhador e assombrado pelo temor do desemprego,medo
+103,este lugar e mal assombrado,medo
+104,estou assombrado pela crise financeira,medo
+105,mesmo aterrorizado lembro de você,medo
+106,aterrorizado e suando frio,medo
+107,um grupo de elefantes selvagens tem aterrorizado vilas,medo
+108,me sinto intimidada pela sua presença,medo
+109,tenho medo de ser advertida novamente,medo
+110,estou correndo o risco de ser advertido,medo
+111,estou correndo riscos de saúde,medo
+112,os riscos são reais,medo
+113,podemos perder muito dinheiro com essa investida,medo
+114,"socorro, fui intimado a depor",medo
+115,fui notificado e estou com medo de perde a guarda da minha filha,medo
+116,estou angustiada com meus filhos na rua,medo
+117,e abominável o que fazem com os animais,medo
+118,foi terrível o tigre quase o matou,medo
+119,me advertiram sobre isso,medo
+120,"ate que enfim, não agüentava mais te esperar",raiva
+121,eu quero meu dinheiro de volta agora!,raiva
+122,eu odeio a escola!,raiva
+123,vou fazer picadinho de você,raiva
+124,detesto trabalhar no verão,raiva
+125,"quero minha comida, e quero agora!",raiva
+126,melhor você recolher minhas compras agora!,raiva
+127,quero descer agora sua maluca,raiva
+128,vou reclamar com o gerente!,raiva
+129,vai engolir o que disse!,raiva
+130,ele me ridiculariza diante de todos,raiva
+131,não quero mais saber de você,raiva
+132,vejo você na cadeia safado!,raiva
+133,agora vou ter que pagar mais isso ainda!,raiva
+134,saia logo do banheiro!,raiva
+135,suba já para o seu quarto!,raiva
+136,eu falei para calar a boca seu idiota!,raiva
+137,eu disse para você cair fora!,raiva
+138,não agüento mais que fiquem me culpando sem motivo!,raiva
+139,não suporto olhar na sua cara!,raiva
+140,eu não sou um elefante,raiva
+141,juro que se olhar pra mim eu o mato!,raiva
+142,"chega, não quero saber mais deste assunto",raiva
+143,como pode ser tão burro?,raiva
+144,não me aborreça seu moleque,raiva
+145,não quero me aborrecer com estas bobagens,raiva
+146,ele me agrediu!,raiva
+147,eu amaldiçôo você e a sua família,raiva
+148,não me amole,raiva
+149,não venha me amolar,raiva
+150,isso tudo e uma tormenta,raiva
+151,eu vou matar você,raiva
+152,para que simplificar se você pode sempre complicar,raiva
+153,isso esta me enlouquecendo,raiva
+154,estou furiosa com você,raiva
+155,isso mesmo fique furioso,raiva
+156,esses livros são magníficos,surpresa
+157,esse vinho e magnífico,surpresa
+158,seria magnífico ver o esperaculo,surpresa
+159,o casamento foi estupendo,surpresa
+160,e um jogador bárbaro estupendo,surpresa
+161,esse dia esta excelente,surpresa
+162,o cantor estava excelente,surpresa
+163,o universo e assombroso,surpresa
+164,o amor e sublime,surpresa
+165,sua sublime atuação,surpresa
+166,e formidável meu caro walter,surpresa
+167,como e formidável a presença de todos,surpresa
+168,e formidável ter a quem dizer adeus,surpresa
+169,e um conselheiro formidável o seu,surpresa
+170,o artigo foi formidável,surpresa
+171,pica pau e um destaque no imaginário brasileiro,surpresa
+172,ah! o absoluto do imaginário,surpresa
+173,isso foi surreal,surpresa
+174,uma historia completamente surreal,surpresa
+175,essas pinturas beiram o surreal,surpresa
+176,você nem acreditam de tão surreal,surpresa
+177,incrível!,surpresa
+178,fiquei pasma com tudo isso,surpresa
+179,você me deixa pasmo,surpresa
+180,estou admirado com a sua astucia,surpresa
+181,que bela surpresa você me fez,surpresa
+182,não acredito que fez isso!,surpresa
+183,isso foi apavorante,surpresa
+184,isso tão de repente,surpresa
+185,estou chocada com isso,surpresa
+186,estou surpresa e desconsertada,surpresa
+187,esta realmente deslumbrante querida,surpresa
+188,fiquei completamente sem plavras,surpresa
+189,e espantoso o modo como ele nos olha,surpresa
+190,incrivel você estar aqui,surpresa
+191,que fantástica festa minha querida,surpresa
+192,isso tudo e um erro,tristeza
+193,eu sou errada eu sou errante,tristeza
+194,tenho muito dó do cachorro,tristeza
+195,e dolorida a perda de um filho,tristeza
+196,essa tragedia vai nos abalar para sempre,tristeza
+197,perdi meus filhos,tristeza
+198,perdi meu curso,tristeza
+199,sou só uma chorona,tristeza
+200,você e um chorão,tristeza
+201,se arrependimento matasse,tristeza
+202,me sinto deslocado em sala de aula,tristeza
+203,foi uma passagem fúnebre,tristeza
+204,nossa condolências e tristeza a sua perda,tristeza
+205,"desanimo, raiva, solidão ou vazies, depressão",tristeza
+206,vivo te desanimando,tristeza
+207,estou desanimado,tristeza
+208,"imperador sanguinário, depravado e temeroso",tristeza
+209,meu ser esta em agonia,tristeza
+210,este atrito entre nos tem que acabar,tristeza
+211,a escuridão desola meu ser,tristeza
+212,sua falsa preocupação,tristeza
+213,sua falsidade me entristece,tristeza
+214,quem esta descontente com os outros esta descontente consigo próprio,tristeza
+215,a torcida esta descontente com a demissão do tecnico,tristeza
+216,estou bastante aborrecido com o jornal,tristeza
+217,me sinto solitário e entediado,tristeza
+218,a vida e solitária para aqueles que não são falsos,tristeza
+219,como com compulsão depois da depressão,tristeza
+220,estou me desencorajando a viver,tristeza
+221,ele desencoraja minhas vontades,tristeza
+222,isso vai deprimindo por dentro,tristeza
+223,acho que isso e defeituoso,tristeza
+224,os remedios me derrubam na cama,tristeza
+225,a depressão vai me derrubar,tristeza
+226,suas desculpas são falsas,tristeza
+227,não magoe as pessoas,tristeza
